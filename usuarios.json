@@ -1,0 +1,28 @@
+{
+    "1234567890": {
+        "nombre": "Marcelo",
+        "apellido": "Rodriguez",
+        "fecha_nacimiento": "22/10/1990",
+        "correo": "marcelo@gmail.com",
+        "celular": "0934567891",
+        "clave_bancaria": "clave123",
+        "saldo": 400.0,
+        "transacciones": [
+            {
+                "fecha": "13/10/2024 22:23:57",
+                "tipo": "apertura cuenta de ahorros",
+                "monto": 0
+            }
+        ]
+    },
+    "0987654321": {
+        "nombre": "Ana",
+        "apellido": "Perez",
+        "fecha_nacimiento": "15/06/1985",
+        "correo": "ana@gmail.com",
+        "celular": "0938765432",
+        "clave_bancaria": "clave456",
+        "saldo": 1100.0,
+        "transacciones": []
+    }
+}
